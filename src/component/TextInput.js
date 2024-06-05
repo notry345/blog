@@ -20,4 +20,4 @@ function TextInput(props) {
 }
 
 
-export default Button;
+export default TextInput;
