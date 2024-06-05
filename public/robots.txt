@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+크롤링되지 않았으면 하는 디렉토리나 페이지
